@@ -60,19 +60,19 @@ ________________________________________________________________________________
 
 ## credits:
 
-  > devs:
-    neotap
+    devs:
+      neotap
 
-  helpers:
-    SimpBuilder (some ideas)
-    MusicBug360 (did some CTM & CIT for optifine)
+    helpers:
+      SimpBuilder (some ideas)
+      MusicBug360 (did some CTM & CIT for optifine)
 
-  honourable mentions:
-    LxcidNikkii
-    kikhan
-    spudkin_
+    honourable mentions:
+      LxcidNikkii
+      kikhan
+      spudkin_
 
-  other: (full credit to the textures they made, go check them out!)
-    Vanilla Tweaks: https://vanillatweaks.net/
+    other: (full credit to the textures they made, go check them out!)
+      Vanilla Tweaks: https://vanillatweaks.net/
 
 ________________________________________________________________________________________
