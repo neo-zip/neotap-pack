@@ -1,78 +1,59 @@
-________________________________________________________________________________________
-
-
 # neotap pack
-`ver. 1.0.19 rel-neotap.dev`
 
-### Belongs to neotap INC. All terms stated in the TOS apply. Do not distribute for own benefit. If you do want to distribute this you can, just don't profit from it. Also you can use textures as long as you mention/credit me.
+`ver. 1.19.1 rel-neotap.net`
 
-### Downloads: https://neotap.dev/mc
-### Terms: https://neotap.dev/terms
+Belongs to neotap INC. All terms stated in the [TOS](https://neotap.net/terms) apply. Do not distribute for own benefit. If you do want to distribute this you can, just don't profit from it. Also you can use textures as long as you mention/credit me.
 
-________________________________________________________________________________________
+#### Downloads: https://neotap.net/mc
 
-## notes:
+#### Terms: https://neotap.net/terms
 
-    + custom textures that ONLY work with OPTIFINE
-        + armorfor 
-          + name any netherite armor "invis" to make it invis
-          + name a netherite helmet "headphones" for headpone texture
-        + bows
-          + "furrygun" for a furry sniper texture, sorry lol
-          + "sniper" for a sniper texture
-        + some done for hypixel and neotap.dev
-        + also some for default mc
-          + nametags easier: Dinnerbone, jeb_, debug_stick
+---
 
-________________________________________________________________________________________
+## CUSTOM TEXTURES
 
-## changelog:
+These **only** work with [Optifine](https://optifine.net/downloads)
 
-    + xp is now light blue, green is boring
-    + updated packmcmeta
-    + gui improvements
-      + redid basic theme
-      + easier for new people
-      + more clear to see
-      + finally fixed icons.png
-      + also just updated icons.png a little
-    + changed primary color:
-      + prim color now more general white
-      ? you change change by replacing &d with &- in lang files
-    + redid all splashes:
-      + now 400
-      + more general
-    + added 1.19 things
-    + changed a couple of font items
-      + made >,(,),$ less aggresive
-    + updated to 1.19
-    - removed most vanilla tweak stuff because copyright sucks
-      + every used texture should now be modified
-      - removed 3d stuff
-      - directional hoppers are now byebye because they dont work
-    - removed old bow texture
-    + updated the sword textures
-    + decreased deployment size
-    + changed realm stuff to match theme
-    + redid F3 stuff
+-  Name any **netherite** armor piece `invis` to make it invisible
+-  Name a **netherite** helmet `headphones` for headphone texture
+-  Name a bow `furrygun` for a furry sniper texture, sorry lol
+-  Name a bow `sniper` for a sniper texture
+-  Items done for [neotap](https://neotap.net) and [Hypixel](https://hypixel.net)
+-  Nametags easier to view (i.e. Dinnerbone, jeb\_, debug_stick)
 
-________________________________________________________________________________________
+---
 
-## credits:
+## CHANGE LOG
 
-    devs:
-      neotap
+```diff
++ Updated packmcmeta
++ GUI improvements
++ Font slightly modified, now centered
++ Language file modified to look more clean
++ Redid some splashes
++ Fixed the server selection
++ Added a couple custom items
+- Removed some custom items
+- Removed some colors in langauge for easier reading
+```
 
-    helpers:
-      SimpBuilder (some ideas)
-      MusicBug360 (did some CTM & CIT for optifine)
+---
 
-    honourable mentions:
-      LxcidNikkii
-      kikhan
-      spudkin_
+## CREDITS
 
-    other: (full credit to the textures they made, go check them out!)
-      Vanilla Tweaks: https://vanillatweaks.net/
+**Developer(s):**
 
-________________________________________________________________________________________
+-  neotap
+-  MusicBug360
+
+**Honourable mentions(s):**
+
+-  SimpBuilder
+-  LxcidNikkii
+-  kikhan
+-  spudkin\_
+
+**Other:**
+(full credit to the textures they made, go check them out!)
+
+-  Vanilla Tweaks: https://vanillatweaks.net/
